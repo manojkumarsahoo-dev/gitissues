@@ -7,5 +7,5 @@ total = x - y
 if total > 10:
     print(f"The sum is {total}, which is greater than 10.")
 else:
-    print("The sum is small.")
+    print("The sum is big.")
 
